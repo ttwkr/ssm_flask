@@ -2,6 +2,7 @@
 
 ### stack
 - python 3.7
-- flask
+- Flask
+- Postgresql
 - nginx
 - gunicorn
